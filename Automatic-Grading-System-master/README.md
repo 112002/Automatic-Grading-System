@@ -6,3 +6,4 @@ You just have to place each student's answersheet in front of the webcam and wit
 scores will be displayed on the computer screen.Correct answers will be displayed with green circles and wrong answers with red circles.
 
 # Abstract:
+Most of the articles which cover automated grading consider keyword matching to be a crucial aspect while grading answers. Even though these are important, it is human to forget several 
